@@ -46,7 +46,7 @@ docker run --name phpmyadmin -d --link mysql-server:db -p 8080:80 phpmyadmin
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/thanaphon-6509611742/MyWork.git
+git clone https://github.com/thanaphon-6509611742/Joiji.git
 cd joiji
 ```
 2. **Install Dependencies:**

@@ -2,7 +2,7 @@
 
 **Welcome to Joiji, a movie rental application developed as part of the CS251 (Database System) course. This React application fetches a list of movies from an API and displays them in a grid layout, each represented by a poster image. The application includes a navigation bar and a menu bar, providing a user-friendly interface for browsing and renting movies.**
 
-![Joiji App Screenshot](/app-screenshot.png)
+![app-screenshot](https://github.com/user-attachments/assets/7ac98454-7535-4908-bff3-61a3bfe37bc0)
 
 ## Getting Started 🚀
 
@@ -46,7 +46,7 @@ docker run --name phpmyadmin -d --link mysql-server:db -p 8080:80 phpmyadmin
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/thanaphon-6509611742/JoijiGit.git
+git clone https://github.com/thanaphon-6509611742/MyWork.git
 cd joiji
 ```
 2. **Install Dependencies:**

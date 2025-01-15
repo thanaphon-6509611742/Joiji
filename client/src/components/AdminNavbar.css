@@ -1,0 +1,18 @@
+.sidebar-2 {
+    z-index: 2; 
+  }
+  
+  .sidebar-3 {
+    position: relative; 
+    z-index: 1; 
+  }
+  
+  .jj{
+    margin-top: 300px;
+  }
+
+  .ok{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }

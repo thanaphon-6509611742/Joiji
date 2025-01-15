@@ -1,0 +1,135 @@
+
+.order-title{
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+  }
+  
+  .select {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+    .select1{
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+  
+    input{
+      border: 1px solid gray;
+    }
+    
+    /* เส้นขอบตาราง */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  /* สีพื้นหลังแถวตาราง */
+  table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  /* สีพื้นหลังแถวตารางเมื่อ hover */
+  table tr:hover {
+    background-color: #ddd;
+  }
+  
+  /* สไตล์ขอบและหัวข้อของตาราง */
+  table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  /* สไตล์ของหัวข้อตาราง */
+  table th {
+    background-color: rgb(249, 250, 251);
+    color: rgb(0, 0, 0);
+  }
+  
+  .App-input{
+  border: 1px solid #ddd;
+  height: 28px;
+  padding-bottom: 3px;
+  border-right: none;
+  margin-top: 20px;
+  height: 32px;
+  padding: 5px;
+  }
+  
+  .App-img{
+    width: 32px;
+    height: 32px;
+    border: 1px solid #ddd;
+    border-left: none;
+    margin-top: 20px;
+    padding: 5px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px ;
+    }
+  
+  .select1{
+    border: 1px solid #ddd;
+    height: 32px;
+    padding: 5px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px ;
+  }
+  
+  .select3{
+    border: 1px solid #ddd;
+    width: 220px;
+    height: 32px;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-left: 55px;
+    padding: 5px;
+  }
+  
+  .username{
+    width: 170px;
+    color: black;
+    font-weight: bold;
+  }
+  
+  .dot{
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: -8px;
+    color: black;
+  }
+  
+  .color-Booking{
+    background-color: rgb(172, 191, 233);
+    padding: 3px;
+    width: fit-content;
+    border-radius: 3px;
+    font-size: 13px;
+  }
+
+  .color-Shipped{
+    background-color: rgb(209, 250, 229);
+    padding:3px;
+    width: fit-content;
+    border-radius: 3px;
+    font-size: 13px;
+  }
+
+  .color-Returned{
+    background-color: rgb(253, 238, 180);
+    padding: 3px;
+    width: fit-content;
+    border-radius: 3px;
+    font-size: 13px;
+  }
+
+  .color-Canceled{
+    background-color: rgb(254, 226, 226);
+    padding: 3px;
+    width: fit-content;
+    border-radius: 3px;
+    font-size: 13px;
+  }
+
+  

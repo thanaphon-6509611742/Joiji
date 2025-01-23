@@ -85,13 +85,13 @@ npm run dev
 - **Client:** [http://localhost:5173](http://localhost:5173)
 - **Server:** [http://localhost:3000](http://localhost:3000)
 - **phpMyAdmin:** [http://localhost:8080](http://localhost:8080) (Username: `root`, Password: `root`)
+  
+![Image 24-1-2568 BE at 00 00](https://github.com/user-attachments/assets/0f1a43bd-bf8b-465f-9728-18f6b345829e)
 
 ### Database Setup 🗄️
 
 1. **Create Database:**
 - Open phpMyAdmin, create a new database named `joijiDB`.
-
-![Alt Text](/init-database.gif)
 
 2. **Import Database Structure:**
 - Select `joijiDB`, go to "Import", and upload `Database.SQL`.
